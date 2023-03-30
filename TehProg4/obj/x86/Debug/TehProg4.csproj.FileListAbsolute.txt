@@ -1,0 +1,14 @@
+C:\Users\Student\AppData\Local\Temporary Projects\TehProg4\bin\Debug\TehProg4.exe
+C:\Users\Student\AppData\Local\Temporary Projects\TehProg4\bin\Debug\TehProg4.pdb
+C:\Users\Student\AppData\Local\Temporary Projects\TehProg4\obj\x86\Debug\TehProg4.Properties.Resources.resources
+C:\Users\Student\AppData\Local\Temporary Projects\TehProg4\obj\x86\Debug\TehProg4.csproj.GenerateResource.Cache
+C:\Users\Student\AppData\Local\Temporary Projects\TehProg4\obj\x86\Debug\TehProg4.exe
+C:\Users\Student\AppData\Local\Temporary Projects\TehProg4\obj\x86\Debug\TehProg4.pdb
+C:\Users\Student\AppData\Local\Temporary Projects\TehProg4\obj\x86\Debug\TehProg4.Form1.resources
+C:\Users\Student\Documents\Visual Studio 2010\Projects\TehProg4\TehProg4\obj\x86\Debug\TehProg4.exe
+C:\Users\Student\Documents\Visual Studio 2010\Projects\TehProg4\TehProg4\obj\x86\Debug\TehProg4.pdb
+C:\Users\Student\Documents\Visual Studio 2010\Projects\TehProg4\TehProg4\bin\Debug\TehProg4.exe
+C:\Users\Student\Documents\Visual Studio 2010\Projects\TehProg4\TehProg4\bin\Debug\TehProg4.pdb
+C:\Users\Student\Documents\Visual Studio 2010\Projects\TehProg4\TehProg4\obj\x86\Debug\TehProg4.Form1.resources
+C:\Users\Student\Documents\Visual Studio 2010\Projects\TehProg4\TehProg4\obj\x86\Debug\TehProg4.Properties.Resources.resources
+C:\Users\Student\Documents\Visual Studio 2010\Projects\TehProg4\TehProg4\obj\x86\Debug\TehProg4.csproj.GenerateResource.Cache
